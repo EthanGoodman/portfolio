@@ -14,8 +14,8 @@
   }
 
   button:hover {
-    background-color: #5000ca;
-    color: white;
+    background-color: var(--accent);
+    color: var(--surface);
   }
 
   fieldset {
@@ -25,7 +25,7 @@
 
 label {
   font-size: 1.2rem;
-  font-family: 'DomaineDispNar-Medium', sans-serif;
+  font-family: var(--serif);
 }
 
 .form-flex {
@@ -45,4 +45,25 @@ form {
 .body-form {
   width: 100% !important;
   margin-bottom: 15px !important;
+}
+#contact a {
+  color: var(--accent);
+  border-bottom: 1px solid var(--ring);
+}
+
+#contact a:hover {
+  border-bottom-color: var(--accent);
+}
+
+#contact .MuiTypography-root {
+  font-family: var(--serif);
+  color: var(--text-secondary);
+}
+
+#contact h1.MuiTypography-root {
+  color: var(--text);
+}
+
+#contact strong {
+  color: var(--text);
 }

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#2c2416"/></marker>
+  <marker id="aa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8b6f47"/></marker>
+  <pattern id="hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#8b6f47" stroke-width="5"/></pattern>
+</defs>
+<rect width="1200" height="600" fill="#ece3d2"/>
+<line x1="130" y1="500" x2="1090" y2="500" stroke="#2c2416" stroke-width="3" />
+<line x1="130" y1="500" x2="130" y2="90" stroke="#2c2416" stroke-width="3" />
+<text x="110" y="100" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#6b5d4f" text-anchor="end" transform="rotate(-90 110 100)">hit rate</text>
+<text x="1090" y="562" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#6b5d4f" text-anchor="end" >iteration</text>
+<line x1="130" y1="250" x2="1090" y2="250" stroke="#6b5d4f" stroke-width="3" stroke-dasharray="16 12"/>
+<text x="154" y="230" font-family="'Times New Roman', Times, Georgia, serif" font-size="34" fill="#6b5d4f" text-anchor="start" >baseline</text>
+<polyline points="210,440 306,405 402,420 498,350 594,318 690,330 786,262 882,232 978,210 1074,196" fill="none" stroke="#8b6f47" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="210" cy="440" r="11" fill="#8b6f47"/>
+<line x1="210" y1="500" x2="210" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="306" cy="405" r="11" fill="#8b6f47"/>
+<line x1="306" y1="500" x2="306" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="402" cy="420" r="11" fill="#8b6f47"/>
+<line x1="402" y1="500" x2="402" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="498" cy="350" r="11" fill="#8b6f47"/>
+<line x1="498" y1="500" x2="498" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="594" cy="318" r="11" fill="#8b6f47"/>
+<line x1="594" y1="500" x2="594" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="690" cy="330" r="11" fill="#8b6f47"/>
+<line x1="690" y1="500" x2="690" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="786" cy="262" r="11" fill="#8b6f47"/>
+<line x1="786" y1="500" x2="786" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="882" cy="232" r="11" fill="#8b6f47"/>
+<line x1="882" y1="500" x2="882" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="978" cy="210" r="11" fill="#8b6f47"/>
+<line x1="978" y1="500" x2="978" y2="514" stroke="#2c2416" stroke-width="3" />
+<circle cx="1074" cy="196" r="11" fill="#8b6f47"/>
+<line x1="1074" y1="500" x2="1074" y2="514" stroke="#2c2416" stroke-width="3" />
+<text x="594" y="420" font-family="'Times New Roman', Times, Georgia, serif" font-size="36" fill="#8b6f47" text-anchor="middle" >LLM-written policy</text>
+</svg>

@@ -1,5 +1,11 @@
 footer {
     text-align: center;
+    border-top: 1px solid var(--border);
+
+    a {
+        color: var(--text);
+    }
+
     padding-top: 50px;
     padding-bottom: 50px;
 
@@ -11,5 +17,6 @@ footer {
 
     p {
         font-size: 0.8em;
+        color: var(--text-secondary);
     }
 }

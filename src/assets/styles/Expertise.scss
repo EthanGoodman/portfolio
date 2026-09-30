@@ -5,7 +5,7 @@
     text-align: left;
 
     svg {
-        color: white;
+        color: var(--text);
     }
 }
   
@@ -18,17 +18,50 @@
 .skills-container .skills-grid .skill {
     align-items: center;
     text-align: left;
+
+    h3 {
+        margin: 1.25rem 0 0.25rem;
+    }
+
+    .role-meta {
+        margin: 0 0 1.25rem;
+        font-family: var(--serif);
+        font-size: 0.9rem;
+        color: var(--text-secondary);
+    }
+}
+
+.detail-points {
+    margin: 0 0 1.5rem;
+    padding-left: 1.1rem;
+
+    li {
+        color: var(--text-nav);
+        font-family: var(--serif);
+        font-size: 1.05rem;
+        line-height: 1.6;
+        padding-left: 0.25rem;
+    }
+
+    li + li {
+        margin-top: 0.75rem;
+    }
+
+    li::marker {
+        color: var(--accent);
+    }
 }
   
 .chip {
-    color: rgb(39, 40, 34) !important;
-    background-color: white !important;
+    color: var(--text) !important;
+    background-color: var(--surface) !important;
+    border: 1px solid var(--border) !important;
     font-size: 0.8rem !important;
-    height: 25px !important;
+    height: 26px !important;
   
     span {
-        font-family: 'Courier Prime', monospace;
-        color: rgb(39, 40, 34);
+        font-family: var(--serif);
+        color: var(--text-nav);
     }
   
     svg {
@@ -41,7 +74,8 @@
     margin: 0.5;
 
     .chip-title {
-        color: white;
+        color: var(--text-secondary);
+        font-size: 0.95rem;
         padding-right: 10px;
     }
 }

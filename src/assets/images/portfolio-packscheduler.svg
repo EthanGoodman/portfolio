@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#2c2416"/></marker>
+  <marker id="aa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8b6f47"/></marker>
+  <pattern id="hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#8b6f47" stroke-width="5"/></pattern>
+</defs>
+<rect width="1200" height="600" fill="#ece3d2"/>
+<rect x="70" y="40" width="1060" height="513.6" fill="#fdfcfa" stroke="#2c2416" stroke-width="3" />
+<line x1="70" y1="100" x2="1130" y2="100" stroke="#2c2416" stroke-width="3" />
+<text x="176.0" y="82" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" fill="#6b5d4f" text-anchor="middle" letter-spacing="4">MON</text>
+<line x1="282" y1="40" x2="282" y2="553.6" stroke="#cfc2b1" stroke-width="2" />
+<text x="388.0" y="82" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" fill="#6b5d4f" text-anchor="middle" letter-spacing="4">TUE</text>
+<line x1="494" y1="40" x2="494" y2="553.6" stroke="#cfc2b1" stroke-width="2" />
+<text x="600.0" y="82" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" fill="#6b5d4f" text-anchor="middle" letter-spacing="4">WED</text>
+<line x1="706" y1="40" x2="706" y2="553.6" stroke="#cfc2b1" stroke-width="2" />
+<text x="812.0" y="82" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" fill="#6b5d4f" text-anchor="middle" letter-spacing="4">THU</text>
+<line x1="918" y1="40" x2="918" y2="553.6" stroke="#cfc2b1" stroke-width="2" />
+<text x="1024.0" y="82" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" fill="#6b5d4f" text-anchor="middle" letter-spacing="4">FRI</text>
+<rect x="80" y="130.20000000000005" width="192" height="73.99999999999999" fill="#8b6f47" stroke="#8b6f47" stroke-width="2" />
+<text x="96" y="172.20000000000005" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#fdfcfa" text-anchor="start" >CSC 216</text>
+<rect x="504" y="130.20000000000005" width="192" height="73.99999999999999" fill="#8b6f47" stroke="#8b6f47" stroke-width="2" />
+<text x="520" y="172.20000000000005" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#fdfcfa" text-anchor="start" >CSC 216</text>
+<rect x="928" y="130.20000000000005" width="192" height="73.99999999999999" fill="#8b6f47" stroke="#8b6f47" stroke-width="2" />
+<text x="944" y="172.20000000000005" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#fdfcfa" text-anchor="start" >CSC 216</text>
+<rect x="292" y="189" width="192" height="99.20000000000005" fill="#fdfcfa" stroke="#2c2416" stroke-width="2.5" />
+<text x="308" y="231" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#2c2416" text-anchor="start" >CSC 226</text>
+<rect x="292" y="407.4" width="192" height="132.80000000000007" fill="#fdfcfa" stroke="#2c2416" stroke-width="2" />
+<rect x="292" y="407.4" width="192" height="132.80000000000007" fill="url(#hatch)" stroke="none" stroke-width="0" opacity="0.3"/>
+<text x="308" y="449.4" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#2c2416" text-anchor="start" >PY 205</text>
+<rect x="716" y="189" width="192" height="99.20000000000005" fill="#fdfcfa" stroke="#2c2416" stroke-width="2.5" />
+<text x="732" y="231" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#2c2416" text-anchor="start" >CSC 226</text>
+<rect x="716" y="407.4" width="192" height="132.80000000000007" fill="#fdfcfa" stroke="#2c2416" stroke-width="2" />
+<rect x="716" y="407.4" width="192" height="132.80000000000007" fill="url(#hatch)" stroke="none" stroke-width="0" opacity="0.3"/>
+<text x="732" y="449.4" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#2c2416" text-anchor="start" >PY 205</text>
+<rect x="80" y="357" width="192" height="107.60000000000002" fill="#e0d7c8" stroke="#2c2416" stroke-width="2" />
+<text x="96" y="399" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#2c2416" text-anchor="start" >MA 241</text>
+<rect x="504" y="357" width="192" height="107.60000000000002" fill="#e0d7c8" stroke="#2c2416" stroke-width="2" />
+<text x="520" y="399" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#2c2416" text-anchor="start" >MA 241</text>
+<rect x="940" y="184.0" width="168" height="134.39999999999998" fill="#fdfcfa" stroke="#8b6f47" stroke-width="4" stroke-dasharray="12 9" fill-opacity="0.9"/>
+<text x="954" y="228.0" font-family="'Times New Roman', Times, Georgia, serif" font-size="32" fill="#8b6f47" text-anchor="start" >CSC 230</text>
+<text x="954" y="270.0" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" fill="#8b6f47" text-anchor="start" >conflict</text>
+</svg>

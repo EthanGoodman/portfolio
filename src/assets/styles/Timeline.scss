@@ -1,38 +1,31 @@
-.vertical-timeline span {
-    color: white;
-    font-family: 'Courier Prime', monospace;
+.vertical-timeline::before {
+    background: var(--ring);
 }
 
-.vertical-timeline p {
-    color: rgb(39, 40, 34);
+.vertical-timeline-element-content {
+    background: var(--surface) !important;
+    border: 1px solid var(--border);
+    box-shadow: none !important;
 }
 
-.vertical-timeline-element p {
-    color: rgb(39, 40, 34);
+.vertical-timeline-element-content-arrow {
+    border-right-color: var(--border) !important;
 }
 
 .vertical-timeline-element h3 {
-    color: rgb(39, 40, 34);
+    color: var(--text);
 }
 
 .vertical-timeline-element h4 {
-    color: rgb(39, 40, 34);
-}
-
-.vertical-timeline-element span {
-    color: rgb(39, 40, 34);
+    color: var(--text-secondary);
+    font-weight: 400;
 }
 
 .vertical-timeline-element .vertical-timeline-element-date {
-    color: white;
+    color: var(--text-secondary);
+    font-family: var(--serif);
 }
 
-.svg-inline--fa {
-    color: white;
-}
-
-@media screen and (max-width: 1170px) {
-    .vertical-timeline-element .vertical-timeline-element-date {
-        color: rgb(39, 40, 34);
-    }
+.vertical-timeline-element-icon .svg-inline--fa {
+    color: var(--surface);
 }
