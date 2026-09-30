@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.be40530f.css",
-    "main.js": "/portfolio/static/js/main.b737093a.js",
+    "main.js": "/portfolio/static/js/main.f672b1c4.js",
     "static/js/453.b05d8aa5.chunk.js": "/portfolio/static/js/453.b05d8aa5.chunk.js",
     "static/media/portfolio-thriftbuddy.png": "/portfolio/static/media/portfolio-thriftbuddy.4c5fb2f20b6c6ff014ea.png",
     "static/media/portfolio-content-insights.png": "/portfolio/static/media/portfolio-content-insights.316feb4b9138cd795cd5.png",
     "static/media/linux-original.svg": "/portfolio/static/media/linux-original.0cb7bf4e5cb9ed5e2333d50935fad3d4.svg",
     "static/media/portfolio-sentiment.png": "/portfolio/static/media/portfolio-sentiment.7843aca47050c6ee8498.png",
     "static/media/skill-c.png": "/portfolio/static/media/skill-c.c0aaea1fd5f113ea7ca0.png",
-    "static/media/headshot.jpeg": "/portfolio/static/media/headshot.7b60682444b5e2906a6c.jpeg",
+    "static/media/headshot.jpeg": "/portfolio/static/media/headshot.a6d172c281b01c11f662.jpeg",
     "static/media/portfolio-wolfcafe.png": "/portfolio/static/media/portfolio-wolfcafe.8b12bcf74328729bd041.png",
     "static/media/portfolio-packscheduler.svg": "/portfolio/static/media/portfolio-packscheduler.c38bcb3d17d9e844ecfe63e22d066f33.svg",
     "static/media/scikitlearn-original.svg": "/portfolio/static/media/scikitlearn-original.5d44970116f5cb06a0fa6b6286fc5d45.svg",
@@ -41,11 +41,11 @@
     "static/media/modal.svg": "/portfolio/static/media/modal.6ad6f929c35367dfa97bcad2d6d0545b.svg",
     "static/media/pandas-original.svg": "/portfolio/static/media/pandas-original.8f75ffe747f823efc5af786c76fdb7a2.svg",
     "main.be40530f.css.map": "/portfolio/static/css/main.be40530f.css.map",
-    "main.b737093a.js.map": "/portfolio/static/js/main.b737093a.js.map",
+    "main.f672b1c4.js.map": "/portfolio/static/js/main.f672b1c4.js.map",
     "453.b05d8aa5.chunk.js.map": "/portfolio/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be40530f.css",
-    "static/js/main.b737093a.js"
+    "static/js/main.f672b1c4.js"
   ]
 }
