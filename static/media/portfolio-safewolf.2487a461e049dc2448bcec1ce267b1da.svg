@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<defs>
+  <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#2c2416"/></marker>
+  <marker id="aa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8b6f47"/></marker>
+  <pattern id="hatch" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="14" stroke="#8b6f47" stroke-width="5"/></pattern>
+</defs>
+<rect width="1200" height="600" fill="#ece3d2"/>
+<rect x="70" y="105" width="230" height="90" fill="#fdfcfa" stroke="#2c2416" stroke-width="3" />
+<text x="185" y="161" font-family="'Times New Roman', Times, Georgia, serif" font-size="34" fill="#2c2416" text-anchor="middle" >internal</text>
+<line x1="300" y1="150" x2="430" y2="300" stroke="#2c2416" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="70" y="255" width="230" height="90" fill="#fdfcfa" stroke="#2c2416" stroke-width="3" />
+<text x="185" y="311" font-family="'Times New Roman', Times, Georgia, serif" font-size="34" fill="#2c2416" text-anchor="middle" >external</text>
+<line x1="300" y1="300" x2="430" y2="300" stroke="#2c2416" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="70" y="405" width="230" height="90" fill="#fdfcfa" stroke="#2c2416" stroke-width="3" />
+<text x="185" y="461" font-family="'Times New Roman', Times, Georgia, serif" font-size="34" fill="#2c2416" text-anchor="middle" >modules</text>
+<line x1="300" y1="450" x2="430" y2="300" stroke="#2c2416" stroke-width="3" marker-end="url(#ah)"/>
+<rect x="440" y="200" width="280" height="200" fill="#fdfcfa" stroke="#2c2416" stroke-width="3" />
+<text x="580" y="318" font-family="'Times New Roman', Times, Georgia, serif" font-size="64" fill="#2c2416" text-anchor="middle" >MISP</text>
+<line x1="720" y1="300" x2="810" y2="300" stroke="#2c2416" stroke-width="3" marker-end="url(#ah)"/>
+<path d="M825 205 V395 A125 34 0 0 0 1075 395 V205" fill="#fdfcfa" stroke="#2c2416" stroke-width="3"/>
+<ellipse cx="950" cy="205" rx="125" ry="34" fill="#e0d7c8" stroke="#2c2416" stroke-width="3"/>
+<text x="950" y="315" font-family="'Times New Roman', Times, Georgia, serif" font-size="58" fill="#8b6f47" text-anchor="middle" >1M+</text>
+<text x="950" y="357" font-family="'Times New Roman', Times, Georgia, serif" font-size="30" fill="#6b5d4f" text-anchor="middle" >attributes</text>
+<text x="950" y="485" font-family="'Times New Roman', Times, Georgia, serif" font-size="34" fill="#6b5d4f" text-anchor="middle" >MySQL</text>
+</svg>
